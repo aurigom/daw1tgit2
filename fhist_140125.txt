@@ -1,0 +1,53 @@
+    1  ls-l
+    2  ls -l 
+    3  cd /d
+    4  cd /t
+    5  ls -l 
+    6  cd programación
+    7  cd Escritorio
+    8  cd programacion
+    9  ls -l
+   10  cd entornos
+   11  cd:
+   12  cd ..
+   13  cd entornos
+   14  ls -l
+   15  mkdir daw1dgit2
+   16  mkdir daw1git2
+   17  mkdir daw1tgit2
+   18  cd daw1tgit2
+   19  git init
+   20  cd .git
+   21  ls -a
+   22  git status
+   23  cd daw1tgit2
+   24  git status
+   25  git init
+   26  ls -l
+   27  git status
+   28  git add primerospasos.txt
+   29  git status
+   30  cd..
+   31  cd ..
+   32  git add Primerospasos.txt
+   33  git status
+   34  git add primerospasos.txt asos.txt
+   35  git add primerospasos.txt
+   36  git status
+   37  git config --list
+   38  git config --list
+   39  git config user.name="aurigom"
+   40  git config user.name"aurigom"
+   41  git config user.email"uribebe05@gmail.com"
+   42  git remote add origin"https://github.com/aurigom/daw1tgit2.git"
+   43  cd /t
+   44  ls -l
+   45  cd entornos
+   46  cd daw1tgit2
+   47  ls -l
+   48* 
+   49  git config user.email"uribebe05@gmail.com"
+   50  git config user.email "uribebe05@gmail.com"
+   51  git config user.name "aurigom"
+   52  git config --list
+   53  history > fhist_140125.txt
