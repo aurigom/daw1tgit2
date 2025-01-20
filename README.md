@@ -7,3 +7,13 @@
 
 
 **vamos a utilizar los comandos git clone, pull fetch, merge**
+
+
+ *En esta prueba vamos a utilizar **git fetch** y **git merge***
+
+ En esta pueba vamos a utilizar una lista de los pasos a seguir
+   * paso 1
+   * paso2
+     * paso 2.1
+
+ 1. paso 1
